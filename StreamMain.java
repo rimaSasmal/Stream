@@ -39,6 +39,30 @@ public class StreamMain {
         /*SecondLargestSkipFindFirst secondLargestSkipFindFirst = new SecondLargestSkipFindFirst();
         secondLargestSkipFindFirst.implement();*/
 
+        /*SortStringList sortStringList = new SortStringList();
+        sortStringList.implement();*/
+
+        /*SumAverage sumAverage = new SumAverage();
+        sumAverage.implemenet();*/
+
+        /*CommonElement commonElement = new CommonElement();
+        commonElement.implement();*/
+
+        /*ReverseString reverseString = new ReverseString();
+        reverseString.implement();*/
+
+        /*SumNaturalNumber sumNaturalNumber = new SumNaturalNumber();
+        sumNaturalNumber.implement();*/
+
+        /*ReverseIntegerArray reverseIntegerArray = new ReverseIntegerArray();
+        reverseIntegerArray.implement();*/
+
+        /*First10EvenNumber first10EvenNumber = new First10EvenNumber();
+        first10EvenNumber.implement();*/
+
+        MostRepeatedElement mostRepeatedElement = new MostRepeatedElement();
+        mostRepeatedElement.implement();
+
     }
 
 }
